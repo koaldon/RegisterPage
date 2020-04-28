@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: slateblue;
+}
+
+.Register{
+    border: solid 10px whitesmoke;
+    padding: 10px 10px 10px 10px;
+    width: 250px;
+    position: absolute;
+    top: 33%;
+    left:33%;
+    background-color: lightseagreen;
+
+}
+
+.fill_in{
+    border-style: inset;
+}
+
+button{
+    background-color: navajowhite;
+    border-style: outset;
+}
